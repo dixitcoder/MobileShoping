@@ -1,7 +1,7 @@
 <template>
     <div> 
       <br>
-      <br>
+      
       <h2>Cart:{{count}}</h2>
       <h2 style="color:white"> Mobile Shopping</h2> <br>
           <ol  v-for="itme in img " :key="itme" class="watch">
