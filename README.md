@@ -1,2 +1,24 @@
-# MobileShoping
-Mobile Shopper - The Ultimate Mobile Shopping Experience  Welcome to Mobile Shopper, your one-stop destination for all your mobile shopping needs. With our cutting-edge Vue.js powered application, we bring you a seamless and intuitive platform to explore, compare, and purchase the latest mobile devices.
+# vue_2
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
