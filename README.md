@@ -1,4 +1,4 @@
-# vue_2
+# ShopingVue JS 
 
 ## Project setup
 ```
