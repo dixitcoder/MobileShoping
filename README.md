@@ -22,3 +22,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+Instagram[@dixitcoder](https://www.instagram.com/dixitcoder/?igshid=MzRlODBiNWFlZA%3D%3D)
